@@ -1,0 +1,31 @@
+body{
+    background-color:beige;
+}
+
+h1,p,li, #conditional-redering{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    font-weight: bold;
+}
+
+button {
+    background-color:cadetblue; /* Green */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 1px solid green;
+  }
+
+input {
+    padding: 15px 32px;
+    width: 47%;
+}
+
+hr{
+    border: 2px solid darkblue;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
